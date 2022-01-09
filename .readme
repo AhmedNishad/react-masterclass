@@ -1,0 +1,30 @@
+This will be us building a meal tracking application.
+
+Using several iterations of reacty stuff
+
+V1 - Plain ol' way you've always done it. Don't look at too many best practices just do it the dumb ol' way
+
+Structure the project and install react essentially from scratch without using any external packages like CRA
+Firebase backend for the moment to keep things super simple. Keep everything decoupled from the frontend as much as is possible
+
+V2 - Introduce hooks, context and more up to date react workflows
+V3 - Try one with Next.js and build out more of the feature level things
+V4 - Learn more about styling the components better with Tailwind
+V5 - Learn more dynamic styling with either Emotion or just SASS
+V6 - Integrate a GraphQL
+V7 - Add on typescript and type safety to see what kind of problems it addresses/ introduces
+
+
+The APP itself
+
+A basic meal planning crud application
+
+1) Meals
+2) Foods
+3) Recipes
+4) Ingredients
+
+Eventually a drag and Drop kind of interface where you're assembling meals out of ingredients
+
+But for now just a master interface of having CRUD for meals, ingredients, recipes and food
+
