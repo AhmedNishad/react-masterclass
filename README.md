@@ -5,6 +5,7 @@ The iterations will be as follows.
 
  V1 - Base react with Hooks Context Etc
  V2 - Next JS
+ V3 - Remix
 
 The application will be a meal tracker.
 
